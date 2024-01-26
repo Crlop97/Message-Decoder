@@ -26,6 +26,6 @@ def decode(message_file):
     return decoded_message
 
 # Example usage:
-message_file = 'coding_qual_input.txt'
+message_file = 'coding_message_input.txt'
 result = decode(message_file)
 print(result)
